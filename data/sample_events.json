@@ -1,0 +1,32 @@
+[
+  {
+    "id": "example-free-001",
+    "title": "SAMPLE ONLY - AI Developer Meetup",
+    "url": "https://luma.com/example",
+    "city": "San Francisco",
+    "in_person": true,
+    "start_at": "2027-01-10T18:00:00-08:00",
+    "description": "Meet engineers and founders at a developer event",
+    "requires_purchase": false,
+    "mandatory_fees": 0,
+    "ticket_types": [
+      {
+        "price": 0,
+        "currency": "USD",
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "example-unverified-002",
+    "title": "SAMPLE ONLY - Food Popup",
+    "url": "https://luma.com/example-two",
+    "city": "Oakland",
+    "in_person": true,
+    "start_at": "2027-01-11T19:00:00-08:00",
+    "description": "Food pop-up",
+    "requires_purchase": null,
+    "mandatory_fees": null,
+    "ticket_types": []
+  }
+]
